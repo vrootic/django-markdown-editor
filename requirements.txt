@@ -7,4 +7,3 @@ requests
 bleach
 tzdata
 martor
-gunicorn
