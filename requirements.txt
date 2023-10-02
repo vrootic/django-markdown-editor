@@ -8,3 +8,5 @@ bleach
 tzdata
 martor
 gunicorn
+martor
+gunicorn
